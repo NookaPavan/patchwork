@@ -8,7 +8,7 @@ If you're working through the challenges in [Git-it](http://www.github.com/jlord
 
 - Create a branch named in this pattern: `add-<username>`, where username, not in brackets, is your GitHub username. 
 
-- Create a file inside of `/contributors` named `add-<username>.txt`, where username, not in brackets, is your GitHub username. That file should just contain your username.
+- nNf `/contributors` named `add-<username>.txt`, where username, not in brackets, is your GitHub username. That file should just contain your username.
   
 - Push your branch to your fork.
 
